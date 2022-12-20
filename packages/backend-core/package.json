@@ -1,6 +1,6 @@
 {
   "name": "@rpowell/backend-core",
-  "version": "2.2.10",
+  "version": "2.2.12",
   "description": "Budibase backend core libraries used in server and worker",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -79,5 +79,5 @@
     "tsconfig-paths": "4.0.0",
     "typescript": "4.7.3"
   },
-  "gitHead": "d1836a898cab3f8ab80ee6d8f42be1a9eed7dcdc"
+  "gitHead": "d5ab348201801f952e1ede28adae9629c7a7225b"
 }
