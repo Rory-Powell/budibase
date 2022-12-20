@@ -1,6 +1,6 @@
 {
-  "name": "@budibase/backend-core",
-  "version": "2.2.10-alpha.3",
+  "name": "@rpowell/backend-core",
+  "version": "2.2.10",
   "description": "Budibase backend core libraries used in server and worker",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.ts",
@@ -70,6 +70,7 @@
     "ioredis-mock": "5.8.0",
     "jest": "28.1.1",
     "koa": "2.13.4",
+    "koa-body": "4.2.0",
     "nodemon": "2.0.16",
     "pouchdb-adapter-memory": "7.2.2",
     "timekeeper": "2.2.0",
